@@ -1,0 +1,24 @@
+{
+  "name": "Warosaurus/MVC_php",
+  "description": "Complete MVC application using core PHP",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Warwick Louw",
+      "email": "WarwickBrettLouw@gmail.com"
+    }
+  ],
+
+  "require": {
+    "twig/twig":   "~1.18"
+  },
+
+  "autoload": {
+    "classmap": [
+      "app/core",
+      "app/controllers",
+      "app/models"
+    ]
+  }
+}
