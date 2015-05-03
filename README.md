@@ -1,5 +1,7 @@
-MVCS
+MVCS 
 
-A simple MVC application in PHP following the tutorial
+A simple MVC application in core PHP
 
-Link: https://www.youtube.com/watch?v=OsCTzGASImQ&list=PLfdtiltiRHWGXVHXX09fxXDi-DqInchFD
+To get started run:  
+
+`php composer.phar install`
